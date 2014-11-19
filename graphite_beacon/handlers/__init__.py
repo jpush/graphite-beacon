@@ -78,3 +78,7 @@ registry = HandlerMeta
 from .log import LogHandler # noqa
 from .smtp import SMTPHandler # noqa
 from .hipchat import HipChatHandler # noqa
+from .alert_center_jpush import AlertCenterJPushHandler # noqa
+
+
+
